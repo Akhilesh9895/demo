@@ -1,0 +1,13 @@
+/*
+Theme Name: generatepress-child
+Description: Child theme of the GeneratePress theme with custom design integration.
+Author: Logiprompt Techno Solutions India Pvt Ltd
+Author URI: https://www.logiprompt.com/
+Template: generatepress
+Version: 1.0
+*/
+
+/* Import the parent theme's styles */
+@import url('../generatepress/style.css');
+
+/* Your custom styles go below this line */
